@@ -1,0 +1,2 @@
+<li class="blog-nav-item"><a href="<?php $this->options->siteUrl(); ?>" class="transition">首页</a></li>
+<?php $this->widget('Widget_Contents_Page_List')->parse('<li class="blog-nav-item"><a href="{permalink}" class="transition">{title}</a></li>'); ?>
