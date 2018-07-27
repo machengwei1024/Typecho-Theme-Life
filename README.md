@@ -1,4 +1,8 @@
 # Typecho-Theme-Life
+
+![https://cdn.weic96.cn/themes-life-home.jpg]()
+![https://cdn.weic96.cn/themes-life-post.jpg]()
+
 ### 功能和特色
 
 * 看似单栏的双栏设计
